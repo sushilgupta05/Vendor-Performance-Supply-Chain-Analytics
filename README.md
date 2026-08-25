@@ -179,6 +179,7 @@ Below is a preview of the Power BI dashboard showing key vendor KPIs:
 <img width="1071" height="604" alt="Image" src="./PowerBI1.png"> 
 <img width="1071" height="603" alt="Image" src="./PowerBi2.png"/>
 
+> 📁 File: [`Inventory_Management.pbix`](https://app.powerbi.com/view?r=eyJrIjoiNTA4MzAyYjctNTY4NC00YzNlLWEzMGUtMDc4ZTdkNDhkOWVjIiwidCI6IjQyYjUxMzUzLTZhMzctNDA5Zi1hMmZlLTc3OGE5YmUzMTllNCJ9)
 
 ---
 
@@ -190,7 +191,7 @@ The final report includes:
     - Major Findings
     - Strategic Recommendations   
 
-📁 File: `report/final_report.pdf`
+📁 File: `Vendor Performance Report.pdf`
 
 ---
 
@@ -200,3 +201,7 @@ The final report includes:
 - Highlighted cost-effectiveness of certain vendors
 - Suggested potential areas for renegotiation and vendor replacement
 
+
+
+📧 Contact: hritishx@gmail.com  
+🔗 GitHub: [github.com/hritishmahajan](https://github.com/hritishmahajan)
