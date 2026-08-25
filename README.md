@@ -191,7 +191,7 @@ The final report includes:
     - Major Findings
     - Strategic Recommendations   
 
-📁 File: `Vendor Performance Report.pdf`
+📁 File: `report/final_report.pdf`
 
 ---
 
@@ -201,7 +201,12 @@ The final report includes:
 - Highlighted cost-effectiveness of certain vendors
 - Suggested potential areas for renegotiation and vendor replacement
 
+---
 
+## Author
+
+**Hritish Mahajan**  
+*Data Analysis | Python | SQL | Power BI | Machine Learning |*
 
 📧 Contact: hritishx@gmail.com  
 🔗 GitHub: [github.com/hritishmahajan](https://github.com/hritishmahajan)
